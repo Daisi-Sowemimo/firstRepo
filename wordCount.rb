@@ -1,5 +1,5 @@
 
-puts "Please swrite a text"
+puts "Please write a text"
 userInput = gets.chomp
 def wordCount(word)
 	frequencies = Hash.new(0)
